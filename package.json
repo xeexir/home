@@ -1,0 +1,17 @@
+{
+"window": {
+"id": "MyApp", 
+"icon": "img/icons8_settings.ico", 
+"title": "Untitled Application", 
+"frame": true, 
+"position": "mouse", 
+"resizable": true, 
+"allways_on_top": false, 
+"width": 768, 
+"height": 450
+}, 
+"main": "index.html", 
+"manifest_version": 2, 
+"version": "1.0", 
+"name": "Untitled Application"
+}
